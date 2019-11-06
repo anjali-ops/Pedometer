@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pedometer</string>
+    <string name="steps">Steps</string>
+    <string name="speed">Speed</string>
+    <string name="copyright">© 2019 Copyright: Pedometer</string>
+    <string name="version">Version 1.0</string>
+    <string name="github">Github</string>
+    <string name="about">This Pedometer uses Location to calculate your steps count.
+    For source code visit my Github.</string>
+
+</resources>
