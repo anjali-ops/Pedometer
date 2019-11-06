@@ -22,7 +22,7 @@ public class AboutActivity extends AppCompatActivity {
         github_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                clickedButtons("http://github.com/sumitmaurya96");
+                clickedButtons("http://github.com/anjali-ops");
             }
         });
     }
